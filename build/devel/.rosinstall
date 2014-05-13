@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/siddharth/ros_workspace/App-new/build/devel/setup.sh
